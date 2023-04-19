@@ -6,6 +6,12 @@
 
 > ***Note: This crappy code was made using Chat GPT. I was bored and decided to make a fun little snake game!***
 
+```
+Known Bugs:
+- Restart Button not Working (Press R to Restart is working)
+- Pressing R multiple times speeds up the snake for some reason idk
+- Sometimes movement bugs
+```
 
 # Here is the Source Code
 
